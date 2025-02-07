@@ -74,6 +74,10 @@ my_new_kyu = my_kyu.copy()
 
 print(my_new_kyu)
 
+#DUB LISTAS
+print(my_new_kyu[1:3])
+print(my_new_kyu[0:5])
+
 #oRDEMA ALREVES 
 my_new_kyu.reverse()
 print(my_new_kyu)
