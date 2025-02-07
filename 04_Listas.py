@@ -86,3 +86,4 @@ print(my_new_kyu)
     #ordena numeros
 #my_new_kyu.sort()
 #print(my_new_kyu)
+
