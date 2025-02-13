@@ -1,5 +1,6 @@
 #tipo de dato
-#almacena carios elementos / no elementos duplicados
+#coleccion de elementos desordenados y  unicos que no permieten duplicados
+#almacena varios elementos / no elementos duplicados
 #accesos diferente
 #esta guardao de foma desordenada
 

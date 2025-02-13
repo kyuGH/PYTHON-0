@@ -1,4 +1,6 @@
-#
+# estructura de datos
+#que asiganan claves a valores
+#clave - valor (acceden por las claves)
 my_dict = dict()
 my_other_dic = {}
 

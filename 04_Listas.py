@@ -1,3 +1,10 @@
+"""  
+estructura de datos
+secuencia ordenada mutable
+estan entre []
+
+"""
+
 #Hay dos formas de crear una lista
 my_list = list()
 my_other_list = []
